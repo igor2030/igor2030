@@ -4,7 +4,7 @@
 
 - 🔭 hoje a procura de um estagio em back-end
 - 🌱  estudando c# e o framework .Net
-- 😄 Pronouns: ele/dele 
+- 😄 Pronomes: ele/dele 
 
 ##
 <div align="center">
