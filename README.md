@@ -3,7 +3,8 @@
 
 
 - 🔭 hoje a procura de um estagio em back-end
-- 🌱  estudando c# e o framework .Net
+- 🌱 estudando c# e o framework .Net
+- 🌱 kotlin no desenvolvimento mobile 
 - 😄 Pronomes: ele/dele 
 
 ##
