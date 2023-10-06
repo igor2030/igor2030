@@ -2,9 +2,10 @@
 
 
 
-- 🔭 hoje a procura de um estagio em back-end
+- 🔭 hoje a procura de uma vaga em back-end
 - 🌱 estudando c# e o framework .Net
-- 🌱 kotlin no desenvolvimento mobile 
+- 🌱 kotlin no desenvolvimento mobile
+- 🌱 Vue js no frontend
 - 😄 Pronomes: ele/dele 
 
 ##
